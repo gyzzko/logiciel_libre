@@ -1,0 +1,248 @@
+
+body{
+	background-color: rgb(255, 243, 226);
+}
+
+
+
+.titre1
+{
+	text-align: center
+}
+
+
+/* mise en forme texty premiere partie site web*/
+
+.text{
+	font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* mise en forme images */
+
+
+.divgoogle
+{
+	text-align: center;
+}
+.google_logo
+{
+	max-width: 25%;
+	height : auto;
+}
+
+
+
+
+
+
+.divapple
+{
+	text-align: center;
+}
+.apple_logo
+{
+	max-width: 25%;
+	height : auto;
+
+}
+
+
+
+
+
+
+.divadobe
+{
+	text-align: center;
+}
+.adobe_logo
+{
+	max-width: 50%;
+	height : auto;
+
+}
+
+
+
+
+.divchrome
+{
+	text-align: center;
+}
+.chrome_logo
+{
+	max-width: 45%;
+	height : auto;
+
+}
+
+
+
+.divwhatsapp
+{
+	text-align: center;
+}
+.whatsapp_logo
+{
+	max-width: 50%;
+	height : auto;
+
+}
+
+
+
+/*Intro stallman*/
+
+.titre7
+{
+    text-align: center;
+}
+
+.intro{
+	text-align: center;
+	font-size: 30px;
+
+}
+
+.stallman
+{
+	height : auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+/*résumé en 3 mots ^^)*/
+.titre3mots{
+	text-align: center;
+}
+
+.republique{
+	max-width: 30%;
+	height : auto;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.leg{
+	text-align: center;
+	table-layout: auto;
+	width: 100%;
+}
+
+.text2{
+	text-align: center;
+	font-size: 30px;
+
+}
+.text3{
+	text-align: center;
+	font-size: 20px;
+
+}
+
+
+/*mise en page tableau*/
+
+.titre_utiliser{
+	text-align: center;
+	text-shadow: 3px 3px 15px ;
+
+}
+.utiliser{
+	text-align: justify;
+}
+
+
+.titre_étudier{
+	text-align: center;
+	text-shadow: 3px 3px 15px ;
+
+}
+.étudier{
+	text-align: justify;
+}
+
+
+.titre_modifier{
+	text-align: center;
+	text-shadow: 3px 3px 15px ;
+
+}
+.modifier{
+	text-align: justify;
+}
+
+
+.titre_distribuer{
+	text-align: center;
+	text-shadow: 3px 3px 15px ;
+
+}
+.distribuer{
+	text-align: justify;
+}
+
+.fleche1{
+	width: 400px;
+	height: 200px;
+}
+
+.fleche2{
+	width: 400px;
+	height: 200px;
+	transform: rotate(180deg)
+}
+
+.principes{
+	text-align: center;
+	text-shadow: 3px 3px 15px ;
+
+}
+
+
+
+
+/*mise en page tableau alternatives libres*/
+.alternative{
+	border-collapse: collapse;
+	border: 1pX solid black; /* auront une bordure de 1px */
+	margin: auto;
+	text-align: center;
+}
+
+.alternative1{
+	border-collapse: collapse;
+	border: 1pX solid black; /* auront une bordure de 1px */
+	margin: auto;
+	text-align: center;
+	font-size: 30px;
+}
+
+.space{
+	border-spacing: 250px;
+
+}
+
+
+
+
+/*idées d'actions*/
+.idee{
+	text-align: center;
+	font-size: 20px;
+}
